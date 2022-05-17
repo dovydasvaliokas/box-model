@@ -1,0 +1,21 @@
+.su-content-box {
+    box-sizing: content-box;
+    background-color: aquamarine;
+    width: 50%;
+}
+
+.su-border-box {
+    box-sizing: border-box;
+    background-color: aquamarine;
+    width: 50%;
+}
+
+.pirma {
+
+}
+
+.antra {
+    padding-left: 10px;
+    padding-right: 20px;
+    border: 4px solid black;
+}
